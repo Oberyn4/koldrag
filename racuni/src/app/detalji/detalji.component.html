@@ -1,0 +1,14 @@
+<div class="container d-flex justify-content-center">
+    <div class="col col-md-6 col-lg-6 p-4">
+      <div class="card">
+        <h5 class="card-header p-2">{{ racun?.mesec }}</h5>
+        <div class="card-body">
+          <h5 class="card-title py-2">Visa tarifa: {{ racun?.potrosnjaVisaTarifa }} din.</h5>
+          <h5 class="card-title py-2">Niza tarifa: {{ racun?.potrosnjaNizaTarifa }} din.</h5>
+          <h5 class="card-title py-2">Obracunska snaga: {{ racun?.obracunskaSnaga }} din.</h5>
+          <h5 class="card-title py-2">Zaduzenje: {{ racun?.ukupnoDinara }} din.</h5>
+          <a routerLink="/" class="btn btn-primary">Nazad</a>
+        </div>
+      </div>
+    </div>
+</div>

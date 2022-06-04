@@ -1,0 +1,100 @@
+{
+    "potrosnjaMeseci": [
+        {
+            "id": 1,
+            "mesec": "januar",
+            "potrosnjaVisaTarifa": 374,
+            "potrosnjaNizaTarifa": 896,
+            "obracunskaSnaga": 126,
+            "ukupnoDinara": 7654.36
+        },
+        {
+            "id": 2,
+            "mesec": "februar",
+            "potrosnjaVisaTarifa": 346,
+            "potrosnjaNizaTarifa": 863,
+            "obracunskaSnaga": 117,
+            "ukupnoDinara": 7234.56
+        },
+        {
+            "id": 3,
+            "mesec": "mart",
+            "potrosnjaVisaTarifa": 284,
+            "potrosnjaNizaTarifa": 646,
+            "obracunskaSnaga": 96,
+            "ukupnoDinara": 4823.78
+        },
+        {
+            "id": 4,
+            "mesec": "april",
+            "potrosnjaVisaTarifa": 284,
+            "potrosnjaNizaTarifa": 646,
+            "obracunskaSnaga": 96,
+            "ukupnoDinara": 4823.78
+        },
+        {
+            "id": 5,
+            "mesec": "maj",
+            "potrosnjaVisaTarifa": 284,
+            "potrosnjaNizaTarifa": 646,
+            "obracunskaSnaga": 96,
+            "ukupnoDinara": 4823.78
+        },
+        {
+            "id": 6,
+            "mesec": "jun",
+            "potrosnjaVisaTarifa": 284,
+            "potrosnjaNizaTarifa": 646,
+            "obracunskaSnaga": 96,
+            "ukupnoDinara": 4823.78
+        },
+        {
+            "id": 7,
+            "mesec": "jul",
+            "potrosnjaVisaTarifa": 284,
+            "potrosnjaNizaTarifa": 646,
+            "obracunskaSnaga": 96,
+            "ukupnoDinara": 4823.78
+        },
+        {
+            "id": 8,
+            "mesec": "avgust",
+            "potrosnjaVisaTarifa": 284,
+            "potrosnjaNizaTarifa": 646,
+            "obracunskaSnaga": 96,
+            "ukupnoDinara": 4823.78
+        },
+        {
+            "id": 9,
+            "mesec": "septembar",
+            "potrosnjaVisaTarifa": 284,
+            "potrosnjaNizaTarifa": 646,
+            "obracunskaSnaga": 96,
+            "ukupnoDinara": 4823.78
+        },
+        {
+            "id": 10,
+            "mesec": "oktobar",
+            "potrosnjaVisaTarifa": 284,
+            "potrosnjaNizaTarifa": 646,
+            "obracunskaSnaga": 96,
+            "ukupnoDinara": 4823.78
+        },
+        {
+            "id": 11,
+            "mesec": "novembar",
+            "potrosnjaVisaTarifa": 284,
+            "potrosnjaNizaTarifa": 646,
+            "obracunskaSnaga": 96,
+            "ukupnoDinara": 4823.78
+        },
+        {
+            "id": 12,
+            "mesec": "decembar",
+            "potrosnjaVisaTarifa": 284,
+            "potrosnjaNizaTarifa": 646,
+            "obracunskaSnaga": 96,
+            "ukupnoDinara": 4823.78
+        }
+    ]
+}
